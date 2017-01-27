@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 class Tuchong_Spider:
 	#Init initial url and folder to save photos
 	def __init__(self, url, num_of_pic):
-		self.my_url = url
+		self.my_url = https://jasonzou.tuchong.com/
 		self.num_of_pic = int(num_of_pic)
 		self.folder = 'tuchong'
 		self.site_id = ''
